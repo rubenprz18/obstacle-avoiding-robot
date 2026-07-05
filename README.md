@@ -69,15 +69,15 @@ Install via Arduino IDE: Tools → Manage Libraries → search "NewPing"
 
 **Key tunable parameters in the code:**
 ```cpp
-#define STOP_DISTANCE 20    // cm — detection threshold
-#define SPEEDL 215          // left motor speed (0-255)
-#define SPEEDR 180          // right motor speed (0-255)
-#define TURN_SPEED_L 170    // left motor speed during turns
-#define TURN_SPEED_R 150    // right motor speed during turns
-#define TURN_DURATION 300   // ms — how long to turn
+#define stopDistance 20    // cm ; detection threshold
+#define speedL 215          // left motor speed (0-255)
+#define speedR 180          // right motor speed (0-255)
+#define turnSpeedL 170    // left motor speed during turns
+#define turnSpeedR 150    // right motor speed during turns
+#define turnDuration 300   // ms ; how long to turn
 ```
 
-**Full sketch:** see `obstacle_avoider.ino`
+**Full sketch:** see `Obs_Robot_Code1.ino`
 
 ---
 
