@@ -77,7 +77,7 @@ Install via Arduino IDE: Tools → Manage Libraries → search "NewPing"
 #define turnDuration 300   // ms ; how long to turn
 ```
 
-**Full sketch:** see `Obs_Robot_Code1.ino`
+**Full sketch:** see `Obs_Robot_Code2.ino`
 
 ---
 
