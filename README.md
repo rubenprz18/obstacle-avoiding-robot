@@ -34,7 +34,8 @@ A brief full-power burst is applied at the start of each movement to overcome th
 ## Wiring
 > *Photo of build*
 > 
-> *Tinkercad schematic*
+> [Robot Car Schematic.pdf](https://github.com/user-attachments/files/29715208/Robot.Car.Schematic.pdf)
+
 
 **Ultrasonic Sensor → Arduino**
 | HC-SR04 | Arduino |
