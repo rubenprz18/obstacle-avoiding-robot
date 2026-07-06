@@ -8,7 +8,9 @@ Built from scratch in approximately 8-10 hours as my first independent Arduino h
 ---
 
 ## Demo
-> *Video Link*
+> https://github.com/user-attachments/assets/6e011006-af11-4a3e-96a6-951105a2ba2f
+
+
 
 ---
 
